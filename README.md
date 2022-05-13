@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ezraaillet
-- 👀 I’m interested in JavaScript, Video Games, and building PCs
-- 🌱 I’m currently learning JavaScript, HTML, and CSS
-- 💞️ I’m looking to collaborate on webpages or simple programs
-- 📫 How to reach me: ezraaillet204@gmail.com
+- Hi, My name is Ezra Aillet. I am a 20 year old software engineer based in Louisiana. I recently graduated the Engineering Immersion Program at Thinkful, where I learned many skills such as Javascript, React, Node, and many others. I am now interning as a .NET developer for Veris Global. 
 
 <!---
 ezraaillet/ezraaillet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
